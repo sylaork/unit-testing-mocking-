@@ -1,0 +1,4 @@
+- Can call readFromFile
+-redFromFile returns correct string
+-readFromFile throws exception when
+-file doesn't exist
